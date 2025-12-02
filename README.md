@@ -6,11 +6,12 @@
  <p align="center">
  
  <p align="center">
- <img width="742" height="556" alt="image" src="https://github.com/user-attachments/assets/3c406c94-9af3-48fd-a6df-27c2653820db" />
+ 
+<img width="500" height="1256" alt="image" src="https://github.com/user-attachments/assets/dd13ba95-cb88-4520-b23d-23593eabd4f9" />
 
 
    
 <p align="center">
   
 <p align="center" width="100%">
- <img width="110" height="18" alt="image" src="https://github.com/user-attachments/assets/aa8cbf11-f0c8-43f2-bb48-a5cdc9391f10" />
+ <img width="100" height="72" alt="image" src="https://github.com/user-attachments/assets/2926f7b3-7223-40e9-81cc-511132774fc9" />
